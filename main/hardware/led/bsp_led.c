@@ -7,7 +7,7 @@
  * @函数说明        LED的初始化
  * 
  */
-void LedGpioConfing(void)
+void LedGpioConfig(void)
 {
     gpio_config_t gpio_init_struct = {0};
 

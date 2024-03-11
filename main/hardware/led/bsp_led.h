@@ -10,7 +10,7 @@
  * @brief   LED初始化
  * 
  */
-void LedGpioConfing(void);
+void LedGpioConfig(void);
 
 /**
  * @brief       设置LED亮
